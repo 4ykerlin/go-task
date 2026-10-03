@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 func main() {
 	//  переменные
 	var monitor float64 = 21830
