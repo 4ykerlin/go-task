@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 func main() {
 	//  переменные
         var f float64
