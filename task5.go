@@ -1,10 +1,4 @@
 package main
-
-import (
-"fmt"
-"math"
-)
-
 func main() {
 	var r float64
     fmt.Print("Введите радиус клумбы: ")
