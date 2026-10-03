@@ -1,9 +1,4 @@
 package main
-
-import 
-"fmt"
-
-
 func main() {
 	var total float64
     fmt.Print("Введите сумму покупки: ")
