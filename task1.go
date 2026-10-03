@@ -1,9 +1,6 @@
 //проекты запускать в папке C:\Users\{c-student/student}\source\folderProject
 
 package main
-
-import "fmt"
-
 func main() {
 	//  переменные
 	var arenda float64 = 95000
