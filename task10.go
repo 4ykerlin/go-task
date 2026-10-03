@@ -1,10 +1,4 @@
 package main
-
-import (
-    "fmt"
-    "math"
-)
-
 func main() {
     var a, b int
     fmt.Print("Введите два целых числа (a b): ")
